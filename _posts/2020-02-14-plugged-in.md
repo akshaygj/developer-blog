@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Programmer working in Office
-author: John Doe
-date: '2019-05-22 14:35:23 +0530'
-category: guides
-summary: 10 reasons why programmers prefers remote jobs
-thumbnail: code.jpg
+title: Welcome to My Personal Blog
+author: Akshay G J
+date: '2020-04-24 16:00:00 +0530'
+category: personal
+summary: My first post in my blog.
+thumbnail: welcome.jpg
 ---
 
 This is a sample post
