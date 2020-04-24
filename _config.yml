@@ -1,9 +1,8 @@
-title: devlopr
-subtitle: A Jekyll Theme Built for Developers
+title: Akshay G J
+subtitle: Web Developer & Data Analyst
 description: >- # this means to ignore newlines until "baseurl:"
-  devlopr-jekyll is a Jekyll Theme Built For Developers
 
-url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
+url: "akshaygj.gihub.io" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 
 urls:
@@ -25,32 +24,32 @@ urls:
 # Edit these details
 
 author_logo: profile.png
-author: John Doe
-author_bio: Web Designer and Developer
-author_email: "johndoe@gmail.com"
+author: Akshay G J
+author_bio: Web Developer & Data Analyst
+author_email: "akshaygj001@gmail.com"
 author_location: India
-author_website_url: "http://johndoe.com"
+author_website_url: "http://akshaygj.github.io"
 
-author_work_experiences:
-            - company_name: Google
-              company_logo: google.png
-              company_url: https://google.com
-              designation: Software Engineer
-              description: Worked on various Google Products
-              visibility: true
-            - company_name: Microsoft
-              company_logo: microsoft.png
-              company_url: https://microsoft.com
-              designation: Azure Developer
-              description: Worked on various Azure Cloud Products
-              visibility: true
+# author_work_experiences:
+#             - company_name: None
+#               company_logo: abc.png
+#               company_url: https://akshaygj.github.io
+#               designation: 
+#               description: Worked on various Google Products
+#               visibility: true
+#             - company_name: Microsoft
+#               company_logo: microsoft.png
+#               company_url: https://microsoft.com
+#               designation: Azure Developer
+#               description: Worked on various Azure Cloud Products
+#               visibility: true
 
 author_education_details:
-              - college_logo: mit.png
-                college_name: MIT
-                college_url: https://mit.org
-                college_degree: CS Engineer
-                description: Bachelor of Technology
+              - college_logo: mvit.png
+                college_name: Sir M Visvesvaraya Institute of Technology, Bengaluru
+                college_url: https://sirmvit.edu
+                college_degree: Computer Science & Engineering
+                description: Bachelor of Engineering in CSE
                 visibility: true
 
 author_project_details:
@@ -58,62 +57,62 @@ author_project_details:
                 project_title: Gamers Hub
                 project_description: A Platform built for Gamers and Game Devs
                 project_url: https://gamershub.in
-                visibility: true
+                visibility: false
               - project_thumbnail: hack4r.PNG
                 project_title: Hack4r
                 project_description: A Platform built for Hackers and Penetration Testers
                 project_url: https://hack4r.com
-                visibility: true
+                visibility: false
 
 # social links
-twitter_username: johndoe
-github_username:  johndoe
-facebook_username: johndoe
-linkedin_username: johndoe
-behance_username: johndoe
-instagram_username: johndoe
-medium_username: johndoe
-telegram_username: johndoe
-dribbble_username: johndoe
-flickr_username: johndoe
+#twitter_username: johndoe
+github_username:  akshaygj
+#facebook_username: johndoe
+linkedin_username: akshay-gj
+# behance_username: johndoe
+# instagram_username: johndoe
+# medium_username: johndoe
+# telegram_username: johndoe
+# dribbble_username: johndoe
+# flickr_username: johndoe
 
 #for comments using disqus
-disqus_shortname: sujay-kundu
+disqus_shortname: akshaygj
 
 # wakatime username (coding activity)
-wakatime_username: sujaykundu777
+wakatime_username: akshaygj
 
 # mailchimp embedded form url (newsletter):
-mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
+#mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
 
 # formspree (contact form)
-formspree_email: johndoe@gmail.com
+formspree_email: akshaygj001@gmail.com
 
 # syntax highlighter
-markdown: kramdown
-highlighter: rouge
-permalink: pretty
+# markdown: kramdown
+# highlighter: rouge
+# permalink: pretty
 
 # google analytics
-google_analytics: UA-46783401-10
+# google_analytics: UA-46783401-10
 
 # Choose what to show ( can be true or false)
-show_author_work_experiences: true
+show_author_work_experiences: false
 show_author_education_details: true
-show_author_project_details: true
+show_author_project_details: false
 
 # algolia search
-algolia:
-  application_id: D9WA1YKTRQ
-  index_name: blog_posts # You can replace that with whatever name you want
-  files_to_exclude: []
-  nodes_to_index: 'article'
-  search_only_api_key: 58ffdd7cd6c45ec1577a7fcd789b1b9a
+# algolia:
+#   application_id: D9WA1YKTRQ
+#   index_name: blog_posts # You can replace that with whatever name you want
+#   files_to_exclude: []
+#   nodes_to_index: 'article'
+#   search_only_api_key: 58ffdd7cd6c45ec1577a7fcd789b1b9a
 
 # pagination of posts
-paginate: 4
-per_page: 4
-paginate_path: "/blog/page/:num/"
+# paginate: 4
+# per_page: 4
+# paginate_path: "/blog/page/:num/"
 
 # minify
 # compress_html:
