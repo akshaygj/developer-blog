@@ -5,7 +5,7 @@ author: ಅಕ್ಷಯ್ . ಜಿ . ಜೆ
 date: '2020-04-26 10:00:00 +0530'
 category: kannada
 summary: ಕಲ್ಯಾಣ ಕ್ರಾಂತಿ
-thumbnail: siteleaf.jpg
+thumbnail: basavanna.jpg
 ---
 
 ಕಲ್ಯಾಣ ಕ್ರಾಂತಿ......
