@@ -18,8 +18,8 @@ layout: default
                           <h4 class="card-title">{{ post.title }}</h4>
                           <img class="card-img-top" src="{{site.url}}{{site.baseurl}}/assets/img/posts/{{ post.thumbnail }}" alt="{{ post.title }}">
                           <div class="card-body center">
-                              <img src="{{site.url}}{{site.baseurl}}/assets/img/{{ site.author_logo }}" class="author-profile-img">
-                              <h6 class="card-subtitle mb-2 text-muted">{{site.title}}</h6>
+                              <img src="{{site.url}}{{site.baseurl}}/assets/img/{{ site.author_logo }}" class="author-profile-img">{{site.title}}
+                              <h6 class="card-subtitle mb-2 text-muted"></h6>
                               <h6 class="card-subtitle mb-2 text-muted">{{ post.date | date: "%b %-d, %Y" }}</h6>
                               <p class="card-text">{{ post.summary }} </p>
 
