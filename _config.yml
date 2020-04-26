@@ -2,7 +2,7 @@ title: Akshay G J
 subtitle: Web Developer & Data Analyst
 description: >- # this means to ignore newlines until "baseurl:"
 
-url: "akshaygj.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
+url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 
 urls:
@@ -89,9 +89,9 @@ mailchimp_form_url: https://github.us8.list-manage.com/subscribe/post?u=3f5d3a50
 formspree_email: akshaygj001@gmail.com
 
 # syntax highlighter
-# markdown: kramdown
-# highlighter: rouge
-# permalink: pretty
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
 
 # google analytics
 # google_analytics: UA-46783401-10
@@ -102,12 +102,12 @@ show_author_education_details: true
 show_author_project_details: false
 
 # algolia search
-# algolia:
-#   application_id: D9WA1YKTRQ
-#   index_name: blog_posts # You can replace that with whatever name you want
-#   files_to_exclude: []
-#   nodes_to_index: 'article'
-#   search_only_api_key: 58ffdd7cd6c45ec1577a7fcd789b1b9a
+algolia:
+  application_id: D9WA1YKTRQ
+  index_name: blog_posts # You can replace that with whatever name you want
+  files_to_exclude: []
+  nodes_to_index: 'article'
+  search_only_api_key: 58ffdd7cd6c45ec1577a7fcd789b1b9a
 
 # pagination of posts
 paginate: 4
