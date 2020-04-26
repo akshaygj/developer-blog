@@ -10,4 +10,4 @@ thumbnail: basavanna.jpg
 
 ಕಲ್ಯಾಣ ಕ್ರಾಂತಿ......
 
-![basavanna ](/assets/img/posts/kalyana-kranthi/basavanna.png){:class="img-fluid"}
+![basavanna ](/assets/img/posts/basavanna.jpg){:class="img-fluid"}
